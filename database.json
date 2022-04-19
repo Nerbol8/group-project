@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 11500,
+      "image": "https://i5.walmartimages.com/asr/27a1eff9-ec2b-4386-95e1-c4c5dc010601_1.80b101788c1917991715e0f90b0922d1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "size": "xl",
+      "color": "blue",
+      "id": 2
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 15000,
+      "image": "data:image/jpeg;base64,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",
+      "color": "red",
+      "size": "xxl",
+      "id": 3
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 13000,
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/7546902/2019/2/11/be44366c-a232-47ec-a7b4-c4bea24f04e71549886561293-HERENOW-Men-Teal-Solid-Polo-Collar-T-shirt-7371549886559966-1.jpg",
+      "color": "black",
+      "size": "s",
+      "id": 4
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка ",
+      "price": 9750,
+      "image": "https://cdn11.bigcommerce.com/s-003c4/images/stencil/1280x1280/products/896/14073/mens_black_triblend_blank_front__57885.1538149351.jpg?c=2",
+      "color": "yellow",
+      "size": "l",
+      "id": 5
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 6500,
+      "image": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/368535s.jpg",
+      "size": "xl",
+      "color": "black",
+      "id": 6
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 14900,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-21-at-13.02.55-e1632255639909.png?w=428",
+      "color": "yellow",
+      "size": "xxl",
+      "id": 7
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка ",
+      "price": 22300,
+      "image": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1968751_GREYBLUE?$pra_grid$&v=1642418206",
+      "color": "blue",
+      "size": "xl",
+      "id": 8
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 19300,
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3CZPS_026865_1",
+      "color": "blue",
+      "size": "xxl",
+      "id": 9
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 18800,
+      "image": "https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-men/default/dw385a069a/3611288/3611288-01-2.jpg?sw=400&sh=600&sm=fit",
+      "color": "blue",
+      "size": "m",
+      "id": 10
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 13700,
+      "image": "https://images.ctfassets.net/40akseett7bn/7jvmfDWiy0b3fRvXhmfN7L/feaa00918d05cfe9a1f4ea9f792b3894/tri-blend-t-shirt_mens_bubble.jpeg",
+      "color": "white",
+      "size": "xl",
+      "id": 11
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 16400,
+      "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964INDIGO_2_1024x1024.jpg?v=1637582856",
+      "size": "l",
+      "color": "blue",
+      "id": 12
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "футболка",
+      "price": 10900,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/809ba3cf-f2be-4626-927b-d730b12f7af1/jordan-jumpman-t-shirt-J2Sbgc.png",
+      "color": "black",
+      "size": "xxl",
+      "id": 13
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus turpis",
+      "price": 13300,
+      "image": "http://cdn.shopify.com/s/files/1/0038/1111/5123/collections/IMG2_2168.jpg?v=1638894357",
+      "color": "white",
+      "size": "l",
+      "id": 14
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "Justo nec ultrices dui sapien eget mi proin sed libero enim",
+      "price": 18400,
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/b0/93/b09374bf63d15775acd85f0fb33a79ea7e7e8875.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "color": "white",
+      "size": "xxl",
+      "id": 15
+    },
+    {
+      "name": "Men's T-shirt",
+      "desc": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed",
+      "price": 13500,
+      "image": "https://media.everlane.com/image/upload/c_fill,dpr_2,f_auto,g_face:center,q_auto,w_auto/v1/i/2af396e4_ead7.jpg",
+      "color": "blue",
+      "size": "xxl",
+      "id": 16
+    }
+  ]
+}
